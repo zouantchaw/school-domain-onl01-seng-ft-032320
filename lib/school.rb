@@ -1,1 +1,3 @@
-# code here!
+class School
+  def name
+end 
